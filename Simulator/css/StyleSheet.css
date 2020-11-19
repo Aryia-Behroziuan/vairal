@@ -1,0 +1,25 @@
+
+.namefile
+{
+   width: 755px; 
+   height: 50px; 
+   caret-color: rgb(238, 239, 250);
+   font-family: Consolas, 'Courier New', monospace;
+   font-size: 25px;
+   color: rgb(255, 71, 71);
+}
+.code-source
+{
+     width: 100%;
+     height: 500px;
+     font-family: Consolas, 'Courier New', monospace;
+     font-size: 35px;
+}
+.code-source1
+{
+     width: 100%;
+     height: 250px;
+     font-family: Consolas, 'Courier New', monospace;
+     font-size: 35px;
+}
+}
